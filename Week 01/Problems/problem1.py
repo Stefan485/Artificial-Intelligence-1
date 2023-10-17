@@ -1,8 +1,5 @@
 """
-Interviewbit - Amazon, Google
 Pascal Triangle
-
-link: https://www.interviewbit.com/problems/pascal-triangle/
 
 Problem Description:
 Given an integer A, equal to numRows, generate the first numRows of Pascal's triangle.

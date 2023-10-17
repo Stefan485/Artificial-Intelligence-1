@@ -1,8 +1,5 @@
 """
-Interviewbit - Amazon
 Bulls and Cows
-
-link: https://www.interviewbit.com/problems/bulls-and-cows/
 
 Problem Description:
     You are playing the Bulls and Cows game with your friend.

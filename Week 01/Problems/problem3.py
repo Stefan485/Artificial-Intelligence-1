@@ -1,9 +1,7 @@
 import heapq
 
 """
-Interviewbit
 Magician and Chocolates
-link: https://www.interviewbit.com/problems/magician-and-chocolates/
 
 Problem Dsecription:
 	Given N bags, each bag contains Bi chocolates. There is a kid and a magician. In one unit of time, kid chooses a random bag i,
