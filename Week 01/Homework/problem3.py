@@ -3,7 +3,7 @@ import heapq
 """
 Magician and Chocolates
 
-Problem Dsecription:
+Problem Description:
 	Given N bags, each bag contains Bi chocolates. There is a kid and a magician. In one unit of time, kid chooses a random bag i,
 	eats Bi chocolates, then the magician fills the ith bag with floor(Bi/2) chocolates.
 	Find the maximum number of chocolates that kid can eat in A units of time.
