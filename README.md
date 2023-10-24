@@ -12,4 +12,14 @@ This repository will be updated with tasks from each weeks exercises after they 
 
 ### Week 1
 
-In this exercises we went through some basic python syntax and data structures. 
+In this exercises we went through some basic python syntax and data structures.
+
+### Week 2
+
+In this exercises we explained OOP in python and went through some basic usage examples. We also implemented interfaces and problem definition for the search
+algorithms that we will be using in the next exercises.
+
+
+## Contact
+
+For any auestions, please contact me at: [dejan.gjer@dmi.uns.ac.rs](mailto:dejan.gjer@dmi.uns.ac.rs)
