@@ -19,6 +19,10 @@ In this exercises we went through some basic python syntax and data structures.
 In this exercises we explained OOP in python and went through some basic usage examples. We also implemented interfaces and problem definition for the search
 algorithms that we will be using in the next exercises.
 
+### Week 3
+
+In this exrcises we implemented uninformed search algorithms BFS, DFS, UCS in order to solve the problem of Romanian cities.
+
 
 ## Contact
 
