@@ -23,6 +23,11 @@ algorithms that we will be using in the next exercises.
 
 In this exrcises we implemented uninformed search algorithms BFS, DFS, UCS in order to solve the problem of Romanian cities.
 
+### Week 4
+In this exercises we continued to work on the problem of Romanian cities, now w
+with informed search algorithms A* and Greedy Best First Search (GBFS).
+Beside that, we also solved the word game problem using informed search algorithms.
+
 
 ## Contact
 
