@@ -28,6 +28,8 @@ In this exercises we continued to work on the problem of Romanian cities, now w
 with informed search algorithms A* and Greedy Best First Search (GBFS).
 Beside that, we also solved the word game problem using informed search algorithms.
 
+### Week 5
+In this exercises we implemented the minimax algorithm for the game of Connect 4.
 
 ## Contact
 
