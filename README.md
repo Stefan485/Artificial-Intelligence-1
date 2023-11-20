@@ -29,7 +29,11 @@ with informed search algorithms A* and Greedy Best First Search (GBFS).
 Beside that, we also solved the word game problem using informed search algorithms.
 
 ### Week 5
-In this exercises we implemented the minimax algorithm for the game of Connect 4.
+In this exercises we implemented the minimax algorithm for the game of Connect 4. We also implemented the alpha-beta pruning algorithm and limited depth of minimax in order to improve the performance of the algorithm.
+
+### Week 6
+In this exercises we are starting introduction to machine learning part of the course. 
+First we setup the conda environment that we are going to use throughout the course and then we introduce jupyter notebooks and specifically it's extension for VS Code. After that we are learning numpy (library for scientific computing in python).
 
 ## Contact
 
