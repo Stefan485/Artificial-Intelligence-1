@@ -1,0 +1,67 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore virtual environment files
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE-specific directories (e.g., PyCharm, Visual Studio Code)
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore data files (modify this based on your specific data directory structure)
+data/
+*.csv
+*.json
+*.pkl
+
+# Ignore model checkpoints and logs (modify this based on your specific setup)
+**/wandb/
+**/runs/
+**/checkpoints/
+**/logs/
+**/results/
+
+# Ignore environment-specific files
+*.env
+
+# Ignore PyTorch model weights
+*.pth
+
+# Ignore Python log files
+*.log
+
+# Ignore package directories (e.g., if using pipenv)
+.Python
+Pipfile.lock
+
+# Ignore Hugging Face Transformers cache directory
+transformers_cache/
+
+# Ignore generated documentation
+docs/_build/
+
+# Ignore system-specific files
+*.swp
+*~
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+
+# Ignore test and development directories
+tests/
+dev/
+
+# Ignore any custom directories or files specific to your project
+# Add specific filenames or directories if needed
