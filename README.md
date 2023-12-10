@@ -35,6 +35,13 @@ In this exercises we implemented the minimax algorithm for the game of Connect 4
 In this exercises we are starting introduction to machine learning part of the course. 
 First we setup the conda environment that we are going to use throughout the course and then we introduce jupyter notebooks and specifically it's extension for VS Code. After that we are learning numpy (library for scientific computing in python).
 
+### Week 7
+In this exercises we started learning pandas (library for data analysis in python and work with tabular data). 
+
+### Week 8
+In this exercises we are continuing to explore pandas and also starting with
+some basic data visualizations using seaborn library.
+
 ## Additional Problems
 
 Contains some additional problems that can be useful for preparation for the first practical exam.

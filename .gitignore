@@ -19,12 +19,6 @@ __pycache__
 .DS_Store
 Thumbs.db
 
-# Ignore data files (modify this based on your specific data directory structure)
-data/
-*.csv
-*.json
-*.pkl
-
 # Ignore model checkpoints and logs (modify this based on your specific setup)
 **/wandb/
 **/runs/
