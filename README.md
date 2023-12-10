@@ -46,6 +46,10 @@ some basic data visualizations using seaborn library.
 
 Contains some additional problems that can be useful for preparation for the first practical exam.
 
+## First Practical Exam Materials
+
+Contains availbale interfaces for the first practical exam. It also has the full solution and problem statement of the exam from November 2023.
+
 ## Contact
 
 For any auestions, please contact me at: [dejan.gjer@dmi.uns.ac.rs](mailto:dejan.gjer@dmi.uns.ac.rs)
