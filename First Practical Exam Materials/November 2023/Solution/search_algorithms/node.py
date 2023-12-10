@@ -20,31 +20,3 @@ class Node:
 
     def __lt__(self, other):
         raise NotImplementedError
-
-class UCSNode(Node):
-    def __init__(self, state: State, parent_node = None, action: Optional[Action] = None, step_cost: Optional[float] = 0):
-        super().__init__(state, parent_node, action)
-        self.path_cost = parent_node.path_cost + step_cost if parent_node is not None else step_cost
-
-    def __lt__(self, other):
-        return self.path_cost < other.path_cost 
-    
-class GBFSNode(Node):
-    def __init__(self, state: State, parent_node = None, action: Optional[Action] = None, 
-                 heuristic_value: Optional[float] = 0):
-        super().__init__(state, parent_node, action)
-        self.heuristic_value = heuristic_value
-
-    def __lt__(self, other):
-        return self.heuristic_value < other.heuristic_value
-    
-class AStarNode(Node):
-    def __init__(self, state: State, parent_node = None, action: Optional[Action] = None, 
-                 step_cost: Optional[float] = 0, heuristic_value: Optional[float] = 0):
-        super().__init__(state, parent_node, action)
-        self.path_cost = parent_node.path_cost + step_cost if parent_node is not None else step_cost
-        self.heuristic_value = heuristic_value
-
-    def __lt__(self, other):
-        return self.path_cost + self.heuristic_value < other.path_cost + other.heuristic_value
-        
