@@ -5,7 +5,11 @@ In this exercises we are solving the problem of binary classification on the Tit
 This dataset is available on Kaggle as a part of Kaggle competition [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview). There you can submit all of your generated predictions on the test set and see your score on the world leaderboard. I encourage you to try to further improve results from the exercises and submit them to the competition.
 
 ## Files
-
-- `titanic_template.ipynb` - notebook with the template for this exercises
-- `titanic_solution.ipynb` - notebook with the solution for this exercises (still not fully completed - we will finish it in the next exercises)
-- `titanic_dataset/` - folder with the dataset for this exercises
+- `titanic/` - folder for the Titanic task (we worked on exerciese)
+    - `titanic_template.ipynb` - notebook with the template for this exercises
+    - `titanic_solution.ipynb` - notebook with the solution for this exercises (still not fully completed - we will finish it in the next exercises)
+    - `titanic_dataset/` - folder with the dataset for this exercises
+- `iris/` - folder for the Iris task (this is additional task for you to try). This is much simpler task than the Titanic, so if you are not sure how to start with the Titanic task, try this one first.
+    - `iris_template.ipynb` - notebook with the template for the Iris task
+    - `iris_solution.ipynb` - notebook with the solution for the Iris task
+    - `iris_dataset/` - folder with the dataset for the Iris task
