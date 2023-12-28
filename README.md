@@ -1,5 +1,7 @@
 # Artificial Intelligence 1
 
+![Background Image](gen_bg.jpg)
+
 ## Description
 
 This github repository contains the exercises for the course Artificial Intelligence 1 at the Faculty of Sciences, UNS, Novi Sad.
@@ -41,6 +43,12 @@ In this exercises we started learning pandas (library for data analysis in pytho
 ### Week 8
 In this exercises we are continuing to explore pandas and also starting with
 some basic data visualizations using seaborn library.
+
+### Week 9
+In this exercises we introduce classical machine learning algorithms for classifcation task (0R, logistic regression, Naive Bayes, knn, decision tree, random forest) and their implementations in scikit-learn library. 
+
+### Week 10
+In this exercises we are solving the problem of binary classification on the Titanic dataset. Here we learn and implement preprocissing of the tabular datasets, train-test splits, k-fold cross validation, hyperparameter tuning and evaluation of the models.
 
 ## Additional Problems
 
