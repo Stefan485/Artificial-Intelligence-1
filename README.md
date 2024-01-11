@@ -50,6 +50,9 @@ In this exercises we introduce classical machine learning algorithms for classif
 ### Week 10
 In this exercises we are solving the problem of binary classification on the Titanic dataset. Here we learn and implement preprocissing of the tabular datasets, train-test splits, k-fold cross validation, hyperparameter tuning and evaluation of the models.
 
+### Week 11
+In this exercises we are implementing neural networks using tensorflow.keras API in order to recognize handwritten digits from the MNIST dataset.
+
 ## Additional Problems
 
 Contains some additional problems that can be useful for preparation for the first practical exam.
