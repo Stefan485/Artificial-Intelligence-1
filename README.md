@@ -61,6 +61,14 @@ Contains some additional problems that can be useful for preparation for the fir
 
 Contains availbale interfaces for the first practical exam. It also has the full solution and problem statement of the exam from November 2023.
 
+## Second Practical Exam Materials
+
+Contains full solution and problem statement of the second exam from January 2024.
+
+## ML Homework
+
+Contains materials for the homework from the machine learning part of the course.
+
 ## Contact
 
-For any auestions, please contact me at: [dejan.gjer@dmi.uns.ac.rs](mailto:dejan.gjer@dmi.uns.ac.rs)
+For any questions, please contact me at: [dejan.gjer@dmi.uns.ac.rs](mailto:dejan.gjer@dmi.uns.ac.rs)
